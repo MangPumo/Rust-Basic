@@ -1,19 +1,7 @@
 {
   "exercises": [
     {
-      "name": "strings4",
-      "result": false
-    },
-    {
       "name": "quiz2",
-      "result": false
-    },
-    {
-      "name": "move_semantics5",
-      "result": false
-    },
-    {
-      "name": "generics1",
       "result": false
     },
     {
@@ -21,11 +9,11 @@
       "result": false
     },
     {
-      "name": "iterators1",
+      "name": "lifetimes3",
       "result": false
     },
     {
-      "name": "lifetimes3",
+      "name": "iterators1",
       "result": false
     },
     {
@@ -33,55 +21,11 @@
       "result": false
     },
     {
-      "name": "hashmaps1",
+      "name": "move_semantics5",
       "result": false
     },
     {
-      "name": "modules2",
-      "result": false
-    },
-    {
-      "name": "generics2",
-      "result": false
-    },
-    {
-      "name": "traits3",
-      "result": false
-    },
-    {
-      "name": "vecs2",
-      "result": false
-    },
-    {
-      "name": "iterators2",
-      "result": false
-    },
-    {
-      "name": "options1",
-      "result": false
-    },
-    {
-      "name": "box1",
-      "result": false
-    },
-    {
-      "name": "move_semantics6",
-      "result": false
-    },
-    {
-      "name": "traits4",
-      "result": false
-    },
-    {
-      "name": "macros2",
-      "result": false
-    },
-    {
-      "name": "macros1",
-      "result": false
-    },
-    {
-      "name": "arc1",
+      "name": "strings4",
       "result": false
     },
     {
@@ -89,11 +33,35 @@
       "result": false
     },
     {
-      "name": "strings3",
+      "name": "traits3",
       "result": false
     },
     {
-      "name": "move_semantics4",
+      "name": "traits4",
+      "result": false
+    },
+    {
+      "name": "hashmaps1",
+      "result": false
+    },
+    {
+      "name": "macros1",
+      "result": false
+    },
+    {
+      "name": "iterators2",
+      "result": false
+    },
+    {
+      "name": "modules2",
+      "result": false
+    },
+    {
+      "name": "arc1",
+      "result": false
+    },
+    {
+      "name": "box1",
       "result": false
     },
     {
@@ -101,8 +69,32 @@
       "result": false
     },
     {
-      "name": "quiz3",
+      "name": "macros2",
       "result": false
+    },
+    {
+      "name": "strings3",
+      "result": false
+    },
+    {
+      "name": "move_semantics6",
+      "result": false
+    },
+    {
+      "name": "move_semantics4",
+      "result": false
+    },
+    {
+      "name": "vecs2",
+      "result": false
+    },
+    {
+      "name": "options1",
+      "result": false
+    },
+    {
+      "name": "generics2",
+      "result": true
     },
     {
       "name": "vecs1",
@@ -113,19 +105,27 @@
       "result": false
     },
     {
-      "name": "hashmaps3",
+      "name": "generics1",
+      "result": true
+    },
+    {
+      "name": "quiz3",
       "result": false
     },
     {
       "name": "hashmaps2",
+      "result": false
+    },
+    {
+      "name": "hashmaps3",
       "result": false
     }
   ],
   "user_name": null,
   "statistics": {
     "total_exercations": 30,
-    "total_succeeds": 1,
-    "total_failures": 29,
+    "total_succeeds": 3,
+    "total_failures": 27,
     "total_time": 1
   }
 }
