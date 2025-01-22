@@ -1,31 +1,11 @@
 {
   "exercises": [
     {
-      "name": "lifetimes3",
-      "result": false
-    },
-    {
       "name": "quiz2",
       "result": false
     },
     {
-      "name": "modules2",
-      "result": false
-    },
-    {
-      "name": "lifetimes2",
-      "result": false
-    },
-    {
-      "name": "lifetimes1",
-      "result": false
-    },
-    {
       "name": "move_semantics4",
-      "result": false
-    },
-    {
-      "name": "traits3",
       "result": false
     },
     {
@@ -37,31 +17,15 @@
       "result": false
     },
     {
+      "name": "modules2",
+      "result": false
+    },
+    {
       "name": "options1",
       "result": false
     },
     {
-      "name": "box1",
-      "result": false
-    },
-    {
-      "name": "strings4",
-      "result": false
-    },
-    {
-      "name": "move_semantics5",
-      "result": false
-    },
-    {
-      "name": "macros2",
-      "result": false
-    },
-    {
-      "name": "arc1",
-      "result": false
-    },
-    {
-      "name": "cow1",
+      "name": "traits3",
       "result": false
     },
     {
@@ -69,15 +33,19 @@
       "result": false
     },
     {
-      "name": "macros1",
+      "name": "strings4",
       "result": false
     },
     {
-      "name": "hashmaps3",
+      "name": "box1",
       "result": false
     },
     {
-      "name": "vecs2",
+      "name": "move_semantics5",
+      "result": false
+    },
+    {
+      "name": "arc1",
       "result": false
     },
     {
@@ -85,7 +53,23 @@
       "result": false
     },
     {
-      "name": "generics2",
+      "name": "cow1",
+      "result": false
+    },
+    {
+      "name": "vecs2",
+      "result": false
+    },
+    {
+      "name": "hashmaps3",
+      "result": false
+    },
+    {
+      "name": "lifetimes3",
+      "result": true
+    },
+    {
+      "name": "lifetimes1",
       "result": true
     },
     {
@@ -93,7 +77,15 @@
       "result": true
     },
     {
-      "name": "iterators1",
+      "name": "vecs1",
+      "result": true
+    },
+    {
+      "name": "lifetimes2",
+      "result": true
+    },
+    {
+      "name": "generics2",
       "result": true
     },
     {
@@ -101,7 +93,15 @@
       "result": false
     },
     {
-      "name": "vecs1",
+      "name": "iterators1",
+      "result": true
+    },
+    {
+      "name": "macros2",
+      "result": true
+    },
+    {
+      "name": "macros1",
       "result": true
     },
     {
@@ -113,19 +113,19 @@
       "result": true
     },
     {
-      "name": "hashmaps1",
+      "name": "iterators2",
       "result": true
     },
     {
-      "name": "iterators2",
+      "name": "hashmaps1",
       "result": true
     }
   ],
   "user_name": null,
   "statistics": {
     "total_exercations": 30,
-    "total_succeeds": 7,
-    "total_failures": 23,
+    "total_succeeds": 12,
+    "total_failures": 18,
     "total_time": 1
   }
 }
