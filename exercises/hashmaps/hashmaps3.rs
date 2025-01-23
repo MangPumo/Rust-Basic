@@ -64,7 +64,7 @@ mod tests {
             + "France,Italy,3,1\n"
             + "Poland,Spain,2,0\n"
             + "Germany,England,2,1\n";
-        results+1
+        results
     }
 
     #[test]
