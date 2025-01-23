@@ -49,6 +49,8 @@ mod tests {
         let mut input = Cow::from(&slice[..]);
         match abs_all(&mut input) {
             // TODO
+            Cow::Borrowed(_) => println!("I borrowed the slice!"),
+            _ => panic!("expected borrowed value"),
         }
     }
 
@@ -61,6 +63,8 @@ mod tests {
         let mut input = Cow::from(slice);
         match abs_all(&mut input) {
             // TODO
+            Cow::Owned(_) => println!("I modified the slice and now own it!"),
+            _ => panic!("expected owned value"),
         }
     }
 
@@ -73,6 +77,8 @@ mod tests {
         let mut input = Cow::from(slice);
         match abs_all(&mut input) {
             // TODO
+            Cow::Owned(_) => println!("I own this slice!"),
+            _ => panic!("expected borrowed value"),
         }
     }
 }
